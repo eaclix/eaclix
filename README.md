@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @eaclix, a third-year computer science student.
+- 👀 I’m interested in exploring various domains of computer science, including artificial intelligence & web development.
+- 🌱 I’m currently learning about data structures, algorithms, and software engineering principles.
+- 💞️ I’m looking to collaborate on open-source projects related to machine learning, web development, or any exciting projects where I can contribute my skills.
+- 📫 How to reach me: You can reach me via email at [bhardwaj09e@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/eakanshbhardwaj).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to solve puzzles and brain teasers in my free time!
