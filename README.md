@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eaclix, a third-year computer science student.
+- 👋 Hi, I’m @eaclix, a computer science student.
 - 👀 I’m interested in exploring various domains of computer science, including artificial intelligence & web development.
 - 🌱 I’m currently learning about data structures, algorithms, and software engineering principles.
 - 💞️ I’m looking to collaborate on open-source projects related to machine learning, web development, or any exciting projects where I can contribute my skills.
